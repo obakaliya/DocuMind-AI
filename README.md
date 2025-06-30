@@ -4,6 +4,7 @@
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue.svg)](https://www.postgresql.org/)
+[![AI](https://img.shields.io/badge/AI-Gemini%20API-brightgreen.svg)](https://ai.google.dev/)
 
 DocuMind is an intelligent document analysis platform that leverages AI to extract key information from legal documents, contracts, and other business documents. Built with modern web technologies, it provides secure, scalable, and user-friendly document processing capabilities.
 
