@@ -1,0 +1,67 @@
+# Node dependencies
+node_modules/
+jspm_packages/
+
+# Local directories
+./backend/node_modules
+./backend/uploads
+./backend/.env
+
+uploads/
+frontend/build
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs
+dist/
+backend/public/
+
+# Test coverage
+coverage/
+.nyc_output
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm
+
+# REPL history
+.node_repl_history
+
+# Yarn integrity file
+.yarn-integrity
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
